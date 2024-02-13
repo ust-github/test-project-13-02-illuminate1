@@ -1,0 +1,2 @@
+echo "Long wait: 30 mins.."
+sleep 1800
